@@ -9,7 +9,7 @@
 		background-color: transparent important($important);
 		border-radius: var(--popout-radius) important($important);
 		box-shadow: none important($important);
-		overflow: hidden;
+		// overflow: hidden;
 
 		&:#{$pseudo} {
 			position: absolute;
